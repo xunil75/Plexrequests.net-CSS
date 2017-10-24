@@ -1,13 +1,13 @@
 # Plexrequests.net-CSS
 CSS Modification for the Plexrequests.net (https://github.com/tidusjar/PlexRequests.Net)
 
-I wanted to make Plexrequets.net to look like my Plex Mediacenter layout, I decided to teak the Bootstrap css to look like it. Feel free to download it and change it to suit your needs.
+I wanted to make Plexrequets.net to look like my Plex Mediacenter layout, I decided to tweak the Bootstrap css to look like it. Feel free to download it and change it to suit your needs.
 
 **Install:**
 
-Please download both files **bootstrap.css** and **custom.min.css** and replace with the ones located at:
+Please download both files **plex.css** and **plex.min.css** and replace with the ones located at:
 
-**`/opt/plexrequests/Release/Content`**
+**`/opt/ombi/Content/Themes`**
 
 # Screenshots:
 
