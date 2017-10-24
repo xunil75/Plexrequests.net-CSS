@@ -1,5 +1,5 @@
 # Plexrequests.net-CSS
-CSS Modification for the Plexrequests.net (https://github.com/tidusjar/PlexRequests.Net)
+CSS Modification for the Ombi https://github.com/tidusjar/Ombi interface, former Plexrequests.net (https://github.com/tidusjar/PlexRequests.Net)
 
 I wanted to make Plexrequets.net to look like my Plex Mediacenter layout, I decided to tweak the Bootstrap css to look like it. Feel free to download it and change it to suit your needs.
 
